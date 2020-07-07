@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="FABcolor">#81D4FA</color>
+    <color name="colorPrimary">#546E7A</color>
+    <color name="colorPrimaryDark">#546E7A</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorMaterial">#f06292</color>
+    <color name="colorButton">#4277AC</color>
+    <color name="colorWhite">#FFF</color>
+
+</resources>
